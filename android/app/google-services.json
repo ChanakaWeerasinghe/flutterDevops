@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074518178535",
+    "project_id": "firbasetest-1c159",
+    "storage_bucket": "firbasetest-1c159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074518178535:android:09b84453fa3091bb7c4042",
+        "android_client_info": {
+          "package_name": "com.test.monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074518178535-7q923eua7phenotg68bqrkpf2a8nq0g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KYz-M_RcVrD9vsJk1hvUDHFs5K10fzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074518178535-7q923eua7phenotg68bqrkpf2a8nq0g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
